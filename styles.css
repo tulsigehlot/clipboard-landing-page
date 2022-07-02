@@ -28,6 +28,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
+
    
 }
 .logohead{
@@ -42,7 +43,6 @@ body{
 }
  .head .logopng{
     width: 100px;
-   
 }
 
 h3{
